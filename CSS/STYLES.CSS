@@ -1,0 +1,33 @@
+.containerId{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.nav-link{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    background-color: 
+    color: white;
+    gap: 60px;
+
+}
+li{
+    display: inline-block;
+}
+.Logo{
+    margin-left: 0%;
+    font-size: x-large;
+}
+.About{font-size: x-large;
+
+}
+.Work{font-size: x-large;
+
+}
+.Contacts{font-size: x-large;
+
+}
